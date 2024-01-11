@@ -23,7 +23,7 @@ public class Baseclass implements Frame_constant
 		driver. manage().timeouts().implicitlyWait(10,TimeUnit. SECONDS);
 		driver.get(url);
 		Thread.sleep(2000);
-		//next year pooja bigboss cont
+		//next year pooja bigboss 
 		
 	}
 	@AfterMethod
